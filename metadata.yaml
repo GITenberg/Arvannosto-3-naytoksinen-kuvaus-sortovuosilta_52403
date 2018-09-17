@@ -1,0 +1,26 @@
+_repo: Arvannosto-3-naytoksinen-kuvaus-sortovuosilta_52403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heilala, Yrjö
+    alias: Heilala, Yrjo
+    birthdate: 1882
+    deathdate: 1951
+    gutenberg_agent_id: '44927'
+    url: http://www.gutenberg.org/2009/agents/44927
+    wikipedia: https://fi.wikipedia.org/wiki/Yrjö_Heilala
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52403'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama -- 20th century'
+- GITenberg
+title: 'Arvannosto: 3 näytöksinen kuvaus sortovuosilta'
+url: http://www.gutenberg.org/ebooks/52403
